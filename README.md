@@ -1,1 +1,1 @@
-# predict-price
+Draft implementation of price forecasting using LSTM.
